@@ -35,9 +35,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <h2 align="center"> 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
----
 
-<h4> programming & markup languages: </h4>
+<h4>  </h4>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=c&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -56,11 +55,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=java&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
-
----
-    
-<h4> Frontend Development: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=html5&sort=" target="_blank" rel="noreferrer">
+     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=html5&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=css3&sort=" target="_blank" rel="noreferrer">
@@ -72,11 +67,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=react&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
-
----
-   
-<h4> Backend Development: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=express&sort=" target="_blank" rel="noreferrer">
+     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=express&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=nodejs&sort=" target="_blank" rel="noreferrer">
@@ -85,21 +76,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=flask&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     </a>
-
----
-    
-<h4> Mobile App Development: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=android&sort=" target="_blank" rel="noreferrer">
+      <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=android&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=kotlin&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     </a>
-
----
-    
-<h4> Database: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=mongodb&sort=" target="_blank" rel="noreferrer">
+      <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=mongodb&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=mysql&sort=" target="_blank" rel="noreferrer">
@@ -108,11 +91,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=firebase&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
-
----
-
-<h4> AI/ML: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=opencv&sort=" target="_blank" rel="noreferrer">
+     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=opencv&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=pandas&sort=" target="_blank" rel="noreferrer">
@@ -130,28 +109,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=tensorflow&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-
----
-    
-<h4> Devops: </h4>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=aws&sort=" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
-
----
-    
-<h4> Version Control: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=git&sort=" target="_blank" rel="noreferrer">
+     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=git&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=github&sort=" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     </a>
-    
----
-
-<h4> Software: </h4>
-     <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=postman&sort=" target="_blank" rel="noreferrer">
+      <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=postman&sort=" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
      </a>
      <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=figma&sort=" target="_blank" rel="noreferrer">
@@ -166,13 +133,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
      <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=VisualStudioCode&sort=" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
      </a>
-     
----
 
-<h4> Game Engines: </h4>
-    <a href="https://github.com/Vindyani1999?tab=repositories&q=&type=&language=unity&sort=" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
