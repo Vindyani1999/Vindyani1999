@@ -22,7 +22,7 @@ University of Ruhuna**
 </td>
 <td width="35%" align="center">
 
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" align="right" alt="Github" src="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/e01c093d-dfd6-4cbc-bb26-ee2b8c49773c" />
 
   </td>
 </tr>
