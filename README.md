@@ -14,9 +14,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 💻 Studies at **Department of Computer
-Engineering**
-- 🧑‍🎓 Studies at **Faculty of Engineering -
-University of Ruhuna**
+Engineering, University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/Vindyani1999](https://github.com/Vindyani1999)
 - 📫 How to reach me **chamihansani123@gmail.com**
 </td>
