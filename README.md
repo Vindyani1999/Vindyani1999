@@ -7,16 +7,22 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vindyani1999&label=Profile%20views&color=0e75b6&style=flat" alt="Vindyani" /> </p>
 
+<h2 align="center">  About Me <img src = "https://github.com/Vindyani1999/Vindyani1999/assets/145743416/48671b29-f948-4b9a-af68-7c6169a4665e" width = 40px> </h2>
+
 <table align="center">
 <tr border="none">
 <td width="65%" align="left">
-<h2> About Me </h2>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 💻 Studies at **Department of Computer
 Engineering, University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/Vindyani1999](https://github.com/Vindyani1999)
 - 📫 How to reach me **chamihansani123@gmail.com**
+- 🌐 Check my portfolio **https://chamihansani.netlify.app**
+- 🔗 Connect with me on **[inkedin.com/in/vindyanikach](https://www.linkedin.com/in/vindyanikach/)**
+- 📌 Follow me on **https://twitter.com/KachVindyani**
+  
 </td>
 <td width="35%" align="center">
 
