@@ -168,7 +168,44 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+<h3 align="center">Open source projects</h3>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Vindyani1999/E-School"><b>E-School Mobile App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vindyani1999/E-School?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vindyani1999/E-School?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Vindyani1999/E-School?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Vindyani1999/E-School?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Chamindu77/CropMaeketplace"><b>Online Local Crop Marketplace & Delivery System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chamindu77/CropMaeketplace?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Chamindu77/CropMaeketplace?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chamindu77/CropMaeketplace?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chamindu77/CropMaeketplace?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vindyani1999/Machine-Learning-Loan-Status-Prediction"><b>Machine Learning Loan Prediction System </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vindyani1999/Machine-Learning-Loan-Status-Prediction?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vindyani1999/Machine-Learning-Loan-Status-Prediction?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Vindyani1999/Machine-Learning-Loan-Status-Prediction?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Vindyani1999/Machine-Learning-Loan-Status-Prediction?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
