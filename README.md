@@ -199,9 +199,40 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 	<img width="12" />
 <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material ui logo"  />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=opencv" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="nodejs logo"  />
+<img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="nodejs logo"  />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
