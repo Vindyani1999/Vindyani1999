@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="nodejs logo"  />
-	<img width="12" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="nodejs logo"  />
  <img width="12" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="nodejs logo"  />
@@ -180,11 +180,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="nodejs logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="nodejs logo"  />
-	<img width="12" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="nodejs logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
+<img width="12" />
  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
