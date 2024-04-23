@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -177,8 +177,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=dart" height="40" alt="nodejs logo"  />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=threejs" height="40" alt="nodejs logo"  />
+	<img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="nodejs logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -187,10 +189,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="nodejs logo"  />
+	<img width="12" />
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="nodejs logo"  />
 	<img width="12" />
 <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="nodejs logo"  />
 	<img width="12" />
+<img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material ui logo"  />
+  <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="nodejs logo"  />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
