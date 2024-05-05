@@ -187,25 +187,25 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h2 align="center"> Read My Articles <img src="https://github.com/ShahriarShafin/ShahriarShafin/raw/main/Assets/handshake.gif" width="100px"> </h2>
-
+<p></p>
 <p align="center">
   
-  <p>Medium</p>
+  
   <a align="center" href="https://medium.com/@chamihansani"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/87a6e298-e479-4454-8b61-9be224469c27" width ="500px"/>
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/87a6e298-e479-4454-8b61-9be224469c27" width="300px" style="border-radius: 150px; margin-right: 40px; />
   </a>
 
-  <p>Linkedin</p>
   <a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:7188403745368543232/"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e" width ="500px"/>
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e" width="300px" style="border-radius: 150px; margin-right: 40px;/>
   </a>
 </p>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
 <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="center">
+<p></p>
+
+<p align="center">	
 <a href="https://linkedin.com/in/vindyanikach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vindyani KACH" height="30" width="40" /></a>
 <a href = 'https://github.com/Vindyani1999'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href="https://www.hackerrank.com/EG_2020_4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vindyani KACH" height="30" width="40" /></a>
