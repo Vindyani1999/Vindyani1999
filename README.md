@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vindyani1999&label=Profile%20views&color=0e75b6&style=flat" alt="Vindyani" /> </p>
 
-<h2 align="center">  About Me <img src = "https://github.com/Vindyani1999/Vindyani1999/assets/145743416/48671b29-f948-4b9a-af68-7c6169a4665e" width = 40px> </h2>
+<h2 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="60" height="60" /> </h2>
 
 <table align="center">
 <tr border="none">
@@ -165,7 +165,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h3 align="center"> 🚀 My Statistics </h3>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /> My Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /></h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -186,10 +186,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h2 align="center"> Read My Articles <img src="https://github.com/ShahriarShafin/ShahriarShafin/raw/main/Assets/handshake.gif" width="100px"> </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="50" height="50" />  Read My Articles <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="50" height="50" /> </h2>
 <p></p>
 <p align="center">
-  
   
   <a align="center" href="https://medium.com/@chamihansani"> 
   <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83" width="300px" height="187" style="border-radius: 150px; margin-right: 60px; />
