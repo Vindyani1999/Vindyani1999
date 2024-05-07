@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
   
   <a align="center" href="https://medium.com/@chamihansani"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/87a6e298-e479-4454-8b61-9be224469c27" width="300px" style="border-radius: 150px; margin-right: 40px; />
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83" width="300px" height="187" style="border-radius: 150px; margin-right: 60px; />
   </a>
 
   <a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:7188403745368543232/"> 
