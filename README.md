@@ -1,11 +1,11 @@
-<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chami H Vindyani</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chami Hansani </h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Browse+my+projects+and+let's+collaborate!&center=true&width=680&height=45">
 
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vindyani1999&label=Profile%20views&color=0e75b6&style=flat" alt="Vindyani" /> </p>
+
 
 <h2 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="60" height="60" /> </h2>
 
@@ -205,10 +205,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <p></p>
 
 <p align="center">	
-<a href="https://linkedin.com/in/vindyanikach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vindyani KACH" height="30" width="40" /></a>
-<a href = 'https://github.com/Vindyani1999'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href="https://www.hackerrank.com/EG_2020_4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vindyani KACH" height="30" width="40" /></a>
-<a href = 'https://www.twitter.com/CN_Munasinghe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href="https://linkedin.com/in/vindyanikach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vindyani KACH" height="60" width="60" gap="20" /></a>
+<a href = 'https://github.com/Vindyani1999'> <img width = '60px' align= 'center' gap="20" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.hackerrank.com/EG_2020_4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vindyani KACH" height="60" width="60" /></a>
+<a href = 'https://www.twitter.com/CN_Munasinghe'> <img width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 </p>
 
 
