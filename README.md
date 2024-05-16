@@ -172,9 +172,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <td width="50%" align="center">
 
   <img width=490  src="https://github-readme-stats-salesp07.vercel.app/api?username=Vindyani1999&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="readme stats" />
- 
+  <br>
   
-  <br></br>
   <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vindyani1999&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
   
 </td>
@@ -193,11 +192,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <p align="center">
   
   <a align="center" href="https://medium.com/@chamihansani"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83" width="300px" height="187" style="border-radius: 150px; margin-right: 60px; />
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83&border_radius=25" width="300" height="187"  />
   </a>
 
   <a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:7188403745368543232/"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e" width="300px" style="border-radius: 150px; margin-right: 40px;/>
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e&border_radius=25" width="300" />
   </a>
 </p>
 
@@ -218,11 +217,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-	<img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
-</div>
+
 
 
 
