@@ -1,11 +1,10 @@
 <h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chami Hansani </h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Browse+my+projects+and+let's+collaborate!&center=true&width=680&height=45">
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h2 align="center">   Visit to my World  </h2>
-<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/7452bb0a-384c-4df2-b491-73506451ce4a&border_radius=25" width="800" height="300"/></a>
+<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/7452bb0a-384c-4df2-b491-73506451ce4a&border_radius=25" width="900" height="350"/></a>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
