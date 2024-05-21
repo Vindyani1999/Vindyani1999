@@ -3,8 +3,25 @@
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h2 align="center">   Visit to my World  </h2>
-<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/7452bb0a-384c-4df2-b491-73506451ce4a&border_radius=25" width="900" height="400"/></a>
+
+
+<table align="center">
+<tr border="none">
+<td width="35%" align="left" border="none">
+
+
+<h3 align="center">   Visit to My World  </h3>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" align="center" alt="Artist Palette" width="155" height="155" />
+
+</td>
+<td width="65%" align="center" border="none">
+
+<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/7452bb0a-384c-4df2-b491-73506451ce4a&border_radius=25" width="600" height="300"/></a>
+
+  </td>
+</tr>
+</table>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
