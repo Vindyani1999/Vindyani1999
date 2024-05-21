@@ -198,15 +198,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <p align="center">
   
   <a align="center" href="https://medium.com/@chamihansani"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83&border_radius=25" width="300" height="187"  />
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/a81e98cf-980b-426d-b829-5a8e436c7c83&border_radius=25" width="250" height="160"  />
   </a>
 
 <a align="center" href="https://medium.com/@chamihansani/understanding-middleware-in-web-applications-049f5a170bdd"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/fd3c2a95-a4ba-4d7c-b7aa-3e6f2f33d333&border_radius=25" width="300" height="187" />
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/fd3c2a95-a4ba-4d7c-b7aa-3e6f2f33d333&border_radius=25" width="250" height="160" />
   </a>
   
   <a align="center" href="https://www.linkedin.com/feed/update/urn:li:activity:7188403745368543232/"> 
-  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e&border_radius=25" width="300" height="187"/>
+  <img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/45cb661c-f3dd-4ec5-94f1-23ba19fb050e&border_radius=25" width="250" height="160"/>
   </a>
 </p>
 
