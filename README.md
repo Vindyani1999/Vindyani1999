@@ -3,16 +3,10 @@
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
-
-
-
-<h2 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="60" height="60" /> </h2>
-
 <table align="center">
 <tr border="none">
 <td width="65%" align="left">
-
+<h3 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="40" height="40" /> </h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 💻 Studies at **Department of Computer
