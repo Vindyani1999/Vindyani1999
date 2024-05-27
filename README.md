@@ -11,7 +11,6 @@ Engineering, University of Ruhuna**
 - 📫 How to reach me **chamihansani123@gmail.com**
 - 🌐 Check my portfolio **[chamihansani.vercel.app](https://chamihansani.vercel.app/)**
 - 🔗 Connect with me on **[inkedin.com/in/vindyanikach](https://www.linkedin.com/in/vindyanikach/)**
-- 📌 Follow me on **[twitter.com/KachVindyani](https://twitter.com/KachVindyani)**
   
 </td>
 <td width="35%" align="center">
