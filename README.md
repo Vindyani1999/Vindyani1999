@@ -1,8 +1,4 @@
 <h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chami Hansani </h1>
-
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
 <table align="center">
 <tr border="none">
 <td width="65%" align="left">
