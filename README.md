@@ -8,7 +8,7 @@
 - 💻 Studies at **Department of Computer
 Engineering, University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/Vindyani1999](https://github.com/Vindyani1999)
-- 📫 How to reach me **chamihansani123@gmail.com**
+- 📫 How to reach me **chamihansani99@gmail.com**
 - 🌐 Check my portfolio **[chamihansani.vercel.app](https://chamihansani.vercel.app/)**
 - 🔗 Connect with me on **[inkedin.com/in/vindyanikach](https://www.linkedin.com/in/vindyanikach/)**
   
