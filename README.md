@@ -181,10 +181,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <tr border="none">
 <td width="50%" align="center">
 
-  <img width=490  src="https://github-readme-stats-salesp07.vercel.app/api?username=Vindyani1999&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="readme stats" />
+  <img width=490 src="https://github-readme-stats-salesp07.vercel.app/api?username=Vindyani1999&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="readme stats" />
   <br>
   
-  <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vindyani1999&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
+  <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vindyani1999&theme=react&border_radius=15" alt="streak stats"/>
   
 </td>
 <td width="50%" align="center">
@@ -193,6 +193,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   </td>
 </tr>
 </table>
+</p>
+
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
