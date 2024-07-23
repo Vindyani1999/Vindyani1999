@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 <td width="65%" align="center" border="none">
 
-<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/Vindyani1999/Vindyani1999/assets/145743416/7452bb0a-384c-4df2-b491-73506451ce4a&border_radius=25" width="600" height="300"/></a>
+<a href="https://chamihansani.vercel.app"><img align="center" src ="https://github.com/user-attachments/assets/b3cac77a-1f97-4a60-95e0-1a477d5532ad" width="600" height="300"/></a>
 
   </td>
 </tr>
