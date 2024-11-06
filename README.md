@@ -4,7 +4,7 @@
 <td width="65%" align="left">
 <h3 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="40" height="40" /> </h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence (AI)**
+- 🌱 I’m currently learning **Software Engineering**
 - 💻 Studies at **Department of Computer
 Engineering, University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/Vindyani1999](https://github.com/Vindyani1999)
