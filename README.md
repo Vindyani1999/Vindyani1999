@@ -4,12 +4,11 @@
 <td width="65%" align="left">
 <h3 align="center">  About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="40" height="40" /> </h3>
 
-- 🌱 I’m currently learning **Software Engineering**
-- 💻 Studies at **Department of Computer
+- 🌱 Studies at **Department of Computer
 Engineering, University of Ruhuna**
 - 👨‍💻 All of my projects are available at [https://github.com/Vindyani1999](https://github.com/Vindyani1999)
 - 📫 How to reach me **chamihansani99@gmail.com**
-- 🌐 Check my portfolio **[chamihansani.vercel.app](https://chamihansani.vercel.app/)**
+- 🌐 Check my portfolio **[https://chamihansani.github.io](https://vindyani1999.github.io/Chami-Hansani/)**
 - 🔗 Connect with me on **[inkedin.com/in/vindyanikach](https://www.linkedin.com/in/vindyanikach/)**
   
 </td>
@@ -43,16 +42,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   </td>
 </tr>
 </table>
-
+<!--
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+<!--
 <h2 align="center"> 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-
-<h4>  </h4>
+-->
     
-
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="java logo"  />
   <img width="12" />
@@ -170,10 +167,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
  
  
-</div>
-
+</div> -->
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) --!>
 
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /> My Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /></h3>
 <p align="center">
@@ -192,7 +188,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </tr>
 </table>
 </p>
-
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
